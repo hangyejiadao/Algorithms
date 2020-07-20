@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs
+/Cpp/Project1/.vs/Project1/v16
